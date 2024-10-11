@@ -1,0 +1,55 @@
+
+
+#logo{
+    height: 70px;
+}
+
+.heading-span{
+    color: orange;
+}
+
+.properties{
+    background-color: gray;
+    height: 50px;
+    width: 200px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+
+}
+
+.section-one{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+#info-para{
+    padding: 40px;
+}
+
+.heading-2{
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px 0;
+}
+
+.section-3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+#heading-3{
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
